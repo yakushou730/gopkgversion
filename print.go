@@ -3,7 +3,7 @@ package gopkgversion
 import "fmt"
 
 const (
-	VERSION = "1.1.1"
+	VERSION = "1.2.1"
 )
 
 func Print() {
